@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayeethri-polamreddy&show_icons=true&locale=en" alt="gayeethri-polamreddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayeethri-polamreddy&" alt="gayeethri-polamreddy" /></p>
-Hii there# Gayeethri-Polamreddy
+
